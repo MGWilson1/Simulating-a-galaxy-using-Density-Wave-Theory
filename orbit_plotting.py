@@ -5,7 +5,6 @@ orbit_plotting.py: Shows the orbits for a given number of stars over a given
 number of evolutions.
 
 Author: Michael Wilson
-Student No.: 16364513
 Date: 02/12/2019
 """
 import numpy as np
