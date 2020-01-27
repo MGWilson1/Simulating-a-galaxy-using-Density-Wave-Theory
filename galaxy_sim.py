@@ -4,7 +4,6 @@ Project Title: Simulating a galaxy using Density Wave Theory.
 galaxy_sim.py:  Animates stars orbitting and rotating around a galaxy.  
 
 Author: Michael Wilson
-Student No.: 16364513
 Date: 02/12/2019
 """
 import numpy as np
