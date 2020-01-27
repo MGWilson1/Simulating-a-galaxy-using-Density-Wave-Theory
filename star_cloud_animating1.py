@@ -5,7 +5,6 @@ star_cloud_animating1.py:  Animates stars and dust clouds orbitting and
 rotating around a galaxy by saving individual images and recalling them.  
 
 Author: Michael Wilson
-Student No.: 16364513
 Date: 02/12/2019
 """
 import numpy as np
