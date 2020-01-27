@@ -5,7 +5,6 @@ galaxy_brightness.py:  Models the surface brightness distribution across
 the galactic disk. 
 
 Author: Michael Wilson
-Student No.: 16364513
 Date: 02/12/2019
 """
 import numpy as np
